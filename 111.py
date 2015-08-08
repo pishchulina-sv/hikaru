@@ -8,3 +8,5 @@ if __name__ == '__main__':
     sys.exit(
         load_entry_point('Django==1.8.3', 'console_scripts', 'django-admin')()
     )
+    
+    1 изменение
